@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlvaroHerreroDev
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Babylon.js
 - 📫 You can reach me via email
 
 <!---
